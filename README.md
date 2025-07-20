@@ -56,3 +56,13 @@ console.log(binarySearch(sortedArray, target)); // Output: 3
  * - mid = 4 → arr[4] = 9 > target → right = 3
  * - mid = 3 → arr[3] = 7 === target → return 3
  */
+
+
+🚀 How to Run
+
+Use Node.js or your browser’s dev console to run examples.
+
+node binarySearch.js
+
+
+Each file is standalone and doesn't rely on any external libraries or bundlers.
