@@ -1,0 +1,6 @@
+# Ignore local GitHub CLI auth
+.gh-config/
+
+
+.gh-config/
+.DS_Store
